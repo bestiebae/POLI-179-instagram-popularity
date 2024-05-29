@@ -10,8 +10,8 @@ How does different content and graphic design choices present in politicians' In
 # Introduction
 
 ### Methods 
-- Convolutional Neural Network (CNN) for Image Clarification 
-- Natural Language Processing (NLP) for Sentiment Analysis
+- Transfer Learning and Clustering Techniques (PCA, k-means)
+- Face API++
 
 ## Analysis
 
