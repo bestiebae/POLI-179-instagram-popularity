@@ -1,5 +1,6 @@
 # POLI 179 Final Project - Visual Elements and Their Effects on Instagram Post Popularity for Politicians
 # Research Question
+How does different content and graphic design choices present in politicians' Instagram posts influence their popularity? What are the prevailing themes or content for each party?
 
 
 ### Group 
