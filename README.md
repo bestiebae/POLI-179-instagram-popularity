@@ -1,4 +1,4 @@
-# POLI-179-instagram-popularity
+# POLI 179 Final Project - Visual Elements and Their Effects on Instagram Post Popularity for Politicians
 # Research Question
 
 
