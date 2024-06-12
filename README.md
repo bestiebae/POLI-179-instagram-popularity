@@ -12,7 +12,7 @@ How does different content and graphic design choices present in politicians' In
 ### Methods 
 - Transfer Learning and Clustering Techniques (PCA, k-means)
 - Face API++
-
+https://drive.google.com/drive/folders/1vSQgHlCuGaPpiC9AMSvyqTXj-m2gUAS6?usp=sharing access our data here
 ## Analysis
 
 # Results 
