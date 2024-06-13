@@ -31,6 +31,25 @@ The data processing involved several steps:
   - K-means Clustering:
 
 ### Conclusion
+This study reveals that Instagram posts by U.S. politicians featuring personal, nonpolitical
+settings, their faces, and emotional expressions significantly boost engagement, as mea-
+sured by likes and comments. The preference for personalized content highlights users’
+desire for relatable portrayals of politicians. Notably, politicians’ faces, particularly larger
+ones displaying positive emotions, drive higher engagement. The use of computer vision
+and clustering techniques to analyze visual data offers valuable insights for political com-
+munication strategies on social media. The methods employed in the original study are very
+easily transferable and expanded upon with other image sets and are good for noticing pat-
+terns in visual data. These findings suggest that personal and emotional visual content is
+crucial for enhancing audience interaction on Instagram.
+In conclusion, this research underscores the importance of visual personalization in en-
+hancing audience engagement on Instagram for U.S. politicians. By showcasing personal,
+relatable, and emotionally engaging content, politicians can foster stronger connections
+with their followers. The study’s use of computer vision and clustering techniques to an-
+alyze large-scale visual data provides a robust framework for future research in political
+communication. Future studies should explore the effects of personalized content across
+different social media platforms and consider how these strategies impact voter perceptions
+and behaviors beyond social media engagement.
+
 
 # References 
 Bossetta, M. (2023, October 3). Cross-Platform Emotions and Audience Engagement in Social Media Political Campaigning: Comparing Candidates’ Facebook and Instagram Images in the 2020 US Election. Retrieved from osf.io/g69tr
