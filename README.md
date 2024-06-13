@@ -10,16 +10,27 @@ How does different content and graphic design choices present in politicians' In
 # Summary
 
 ### Introduction
+In the digital age, Instagram has become a pivotal platform for political communication. Politicians utilize it to engage with constituents, shape perceptions, and influence voter behavior. This project investigates the visual elements contributing to the popularity of politicians' Instagram posts, focusing on image content and emotional expressions. By applying advanced computer vision techniques, we aim to uncover patterns and insights that inform effective social media strategies for political candidates. The datasets and study that we replicated are referenced at the bottom of this README file. Our data processing and dataset is linked in [this](https://drive.google.com/drive/folders/1vSQgHlCuGaPpiC9AMSvyqTXj-m2gUAS6?usp=sharing) google drive link.
 
 ### Methods 
-- Transfer Learning and Clustering Techniques (PCA, k-means)
-- Face API++
-https://drive.google.com/drive/folders/1vSQgHlCuGaPpiC9AMSvyqTXj-m2gUAS6?usp=sharing access our data here
+Feature Extraction
+We utilized the VGG16-hybrid model for feature extraction. This model processes images to identify and encode visual elements, creating feature vectors that represent each image's content. These extracted features were saved for further analysis.
+
+Dimensionality Reduction and Clustering
+Principal Component Analysis (PCA) was employed to reduce the dimensionality of the feature vectors, retaining the most significant components. Subsequently, K-means clustering was applied to group the images based on visual similarities. This method allowed us to categorize images effectively and identify patterns based on their visual content.
+
 ### Analysis
+Data Sources
+Initially, we planned to use the dataset from Peng (2020), but due to access restrictions, we opted for the dataset from Bossetta and Schmokel (2022). This dataset includes Instagram posts from a 15-month period during the 2020 U.S. presidential election, comprising images and related metadata.
 
-### Results 
+Data Processing
+The data processing involved several steps:
 
-### Conclusions
+  - Feature Extraction: Using the VGG16-hybrid model, features from each image were extracted and saved.
+  - PCA
+  - K-means Clustering:
+
+### Conclusion
 
 # References 
 Bossetta, M. (2023, October 3). Cross-Platform Emotions and Audience Engagement in Social Media Political Campaigning: Comparing Candidates’ Facebook and Instagram Images in the 2020 US Election. Retrieved from osf.io/g69tr
