@@ -15,13 +15,13 @@ How does different content and graphic design choices present in politicians' In
 - Transfer Learning and Clustering Techniques (PCA, k-means)
 - Face API++
 https://drive.google.com/drive/folders/1vSQgHlCuGaPpiC9AMSvyqTXj-m2gUAS6?usp=sharing access our data here
-## Analysis
+### Analysis
 
-# Results 
+### Results 
 
-## Conclusions
+### Conclusions
 
-## References 
+# References 
 Bossetta, M. (2023, October 3). Cross-Platform Emotions and Audience Engagement in Social Media Political Campaigning: Comparing Candidates’ Facebook and Instagram Images in the 2020 US Election. Retrieved from osf.io/g69tr
 
 Peng, Y. (2020). What Makes Politicians’ Instagram Posts Popular? Analyzing Social Media Strategies of Candidates and Office Holders with Computer Vision. 
